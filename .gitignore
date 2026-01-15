@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# SQL Server
+*.bak
+*.ldf
+*.mdf
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# Environment files
+.env
+.env.local
+
+# Docker
+docker-compose.override.yml
+
+# Large data files (if needed, uncomment)
+# *.csv
+# datasets/
